@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zanzarasultetto1
+- 👋 Hi, I’m @zanzarasultetto1. Pietro Marelli.
 - 👀 I’m interested in Data Science, Computer Vision, AI and Deep Learning, Linux.
 - 🌱 I’m currently learning Assembly, JavaScript.
 - 💞️ I’m looking to collaborate on a big project.
